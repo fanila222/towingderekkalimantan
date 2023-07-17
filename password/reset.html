@@ -1,0 +1,77 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="fkNAAeuysgYVamedoQ3BBH69CovvpWd6IwTc3RJb">
+
+    <title>Login Admin</title>
+
+    <!-- Scripts -->
+    <script src="http://localhost:8000/js/app.js" defer=""></script>
+
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="../css-1?family=Nunito" rel="stylesheet">
+
+    <!-- Styles -->
+    <link href="http://localhost:8000/css/app.css" rel="stylesheet">
+
+    <!-- Bootstrap  -->
+	<link rel="stylesheet" href="../css/bootstrap/bootstrap.css">
+
+    <!-- Bootstrap -->
+	<script src="/js/bootstrap.min.js"></script>
+
+    <!-- Elate -->
+    
+
+    <!-- Font Awesome JS -->
+    <script defer="" src="/fonts/fontawesome/js/free.min.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+	<script defer="" src="/fonts/fontawesome/js/pro.min.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/admin/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="/admin/fontawesome/css/free.min.css">
+</head>
+<body>
+    
+        
+
+        
+            <div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">Reset Password</div>
+
+                <div class="card-body">
+                    
+                    <form method="POST" action="http://localhost:8000/password/email">
+                        <input type="hidden" name="_token" value="fkNAAeuysgYVamedoQ3BBH69CovvpWd6IwTc3RJb">
+                        <div class="row mb-3">
+                            <label for="email" class="col-md-4 col-form-label text-md-right">E-Mail Address</label>
+
+                            <div class="col-md-6">
+                                <input id="email" type="email" class="form-control " name="email" value="" required="" autocomplete="email" autofocus="">
+
+                                                            </div>
+                        </div>
+
+                        <div class="row mb-0">
+                            <div class="col-md-6 offset-md-4">
+                                <button type="submit" class="btn btn-primary">
+                                    Send Password Reset Link
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        
+    
+</body>
+</html>

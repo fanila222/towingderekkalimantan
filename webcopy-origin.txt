@@ -1,0 +1,292 @@
+Uri: http://localhost:8000/
+File Name: C:\Downloaded Web Sites\localhost\index.htm
+Content Type: text/html
+
+Uri: http://localhost:8000/admin/tag/dist/bootstrap-tagsinput.min.js
+File Name: C:\Downloaded Web Sites\localhost\admin\tag\dist\bootstrap-tagsinput.min.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/admin/tag/twitter-bootstrap/bootstrap.css
+File Name: C:\Downloaded Web Sites\localhost\admin\tag\twitter-bootstrap\bootstrap.css
+Content Type: text/css
+
+Uri: http://localhost:8000/berita
+File Name: C:\Downloaded Web Sites\localhost\berita.html
+Content Type: text/html
+
+Uri: http://localhost:8000/berita/diskon-besar_1
+File Name: C:\Downloaded Web Sites\localhost\berita\diskon-besar_1.html
+Content Type: text/html
+
+Uri: http://localhost:8000/berita/fakta-unik-tentang-towing_2
+File Name: C:\Downloaded Web Sites\localhost\berita\fakta-unik-tentang-towing_2.html
+Content Type: text/html
+
+Uri: http://localhost:8000/berita/tips-dan-pertimbangan-saat-menggunakan-layanan-towing_6
+File Name: C:\Downloaded Web Sites\localhost\berita\tips-dan-pertimbangan-saat-menggunakan-layanan-towing_6.html
+Content Type: text/html
+
+Uri: http://localhost:8000/css/bootstrap/bootstrap.css
+File Name: C:\Downloaded Web Sites\localhost\css\bootstrap\bootstrap.css
+Content Type: text/css
+
+Uri: http://localhost:8000/css/bootstrap/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\localhost\css\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://localhost:8000/css/css-custom.css
+File Name: C:\Downloaded Web Sites\localhost\css\css-custom.css
+Content Type: text/css
+
+Uri: http://localhost:8000/css/multiselect/example-styles.css
+File Name: C:\Downloaded Web Sites\localhost\css\multiselect\example-styles.css
+Content Type: text/css
+
+Uri: http://localhost:8000/css/search.css
+File Name: C:\Downloaded Web Sites\localhost\css\search.css
+Content Type: text/css
+
+Uri: http://localhost:8000/css/sidebar.css
+File Name: C:\Downloaded Web Sites\localhost\css\sidebar.css
+Content Type: text/css
+
+Uri: http://localhost:8000/css/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\localhost\css\slick\slick-theme.css
+Content Type: text/css
+
+Uri: http://localhost:8000/css/slick/slick.css
+File Name: C:\Downloaded Web Sites\localhost\css\slick\slick.css
+Content Type: text/css
+
+Uri: http://localhost:8000/css/styles.css
+File Name: C:\Downloaded Web Sites\localhost\css\styles.css
+Content Type: text/css
+
+Uri: http://localhost:8000/css/xzoom/xzoom.css
+File Name: C:\Downloaded Web Sites\localhost\css\xzoom\xzoom.css
+Content Type: text/css
+
+Uri: http://localhost:8000/fonts/montserraf/Montserrat-Bold.ttf
+File Name: C:\Downloaded Web Sites\localhost\fonts\montserraf\Montserrat-Bold.ttf
+Content Type: font/ttf
+
+Uri: http://localhost:8000/fonts/montserraf/Montserrat-Italic.ttf
+File Name: C:\Downloaded Web Sites\localhost\fonts\montserraf\Montserrat-Italic.ttf
+Content Type: font/ttf
+
+Uri: http://localhost:8000/fonts/montserraf/Montserrat-Light.ttf
+File Name: C:\Downloaded Web Sites\localhost\fonts\montserraf\Montserrat-Light.ttf
+Content Type: font/ttf
+
+Uri: http://localhost:8000/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\localhost\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:8000/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\localhost\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:8000/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\localhost\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:8000/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\localhost\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: http://localhost:8000/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\localhost\fonts\slick.woff
+Content Type: font/woff
+
+Uri: http://localhost:8000/galeri
+File Name: C:\Downloaded Web Sites\localhost\galeri.html
+Content Type: text/html
+
+Uri: http://localhost:8000/gambar/slide/slide1.jpg
+File Name: C:\Downloaded Web Sites\localhost\gambar\slide\slide1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:8000/gambar/slide/slide2.jpg
+File Name: C:\Downloaded Web Sites\localhost\gambar\slide\slide2.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:8000/gambar/slide/slide3.jpg
+File Name: C:\Downloaded Web Sites\localhost\gambar\slide\slide3.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:8000/gambar/slide/slide4.jpg
+File Name: C:\Downloaded Web Sites\localhost\gambar\slide\slide4.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:8000/hubungi
+File Name: C:\Downloaded Web Sites\localhost\hubungi.html
+Content Type: text/html
+
+Uri: http://localhost:8000/imageMosaic/dist/jqueryui-mosaico-cropper.min.css
+File Name: C:\Downloaded Web Sites\localhost\imageMosaic\dist\jqueryui-mosaico-cropper.min.css
+Content Type: text/css
+
+Uri: http://localhost:8000/imageMosaic/dist/jqueryui-mosaico-cropper.min.js
+File Name: C:\Downloaded Web Sites\localhost\imageMosaic\dist\jqueryui-mosaico-cropper.min.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/imageMosaic/urladapters.js
+File Name: C:\Downloaded Web Sites\localhost\imageMosaic\urladapters.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/imagesloader/jquery.imagesloader.css
+File Name: C:\Downloaded Web Sites\localhost\imagesloader\jquery.imagesloader.css
+Content Type: text/css
+
+Uri: http://localhost:8000/js/bootstrap/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\localhost\js\bootstrap\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/js/jquery-2.2.0.min.js
+File Name: C:\Downloaded Web Sites\localhost\js\jquery-2.2.0.min.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/js/js-custom.js
+File Name: C:\Downloaded Web Sites\localhost\js\js-custom.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/js/multiselect/jquery.multi-select.js
+File Name: C:\Downloaded Web Sites\localhost\js\multiselect\jquery.multi-select.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/js/slick/slick.js
+File Name: C:\Downloaded Web Sites\localhost\js\slick\slick.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/js/xzoom/xzoom.min.js
+File Name: C:\Downloaded Web Sites\localhost\js\xzoom\xzoom.min.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/layanans
+File Name: C:\Downloaded Web Sites\localhost\layanans.html
+Content Type: text/html
+
+Uri: http://localhost:8000/login
+File Name: C:\Downloaded Web Sites\localhost\login.html
+Content Type: text/html
+
+Uri: http://localhost:8000/password/reset
+File Name: C:\Downloaded Web Sites\localhost\password\reset.html
+Content Type: text/html
+
+Uri: http://localhost:8000/sharelink/jquery.simpleSocialShare.min.js
+File Name: C:\Downloaded Web Sites\localhost\sharelink\jquery.simpleSocialShare.min.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/tentang
+File Name: C:\Downloaded Web Sites\localhost\tentang.html
+Content Type: text/html
+
+Uri: http://localhost:8000/videos/video1.mp4
+File Name: C:\Downloaded Web Sites\localhost\videos\video1.mp4
+Content Type: video/mp4
+
+Uri: http://localhost:8000/videos/video2.mp4
+File Name: C:\Downloaded Web Sites\localhost\videos\video2.mp4
+Content Type: video/mp4
+
+Uri: http://localhost:8000/videos/video3.mp4
+File Name: C:\Downloaded Web Sites\localhost\videos\video3.mp4
+Content Type: video/mp4
+
+Uri: http://localhost:8000/videos/video4.mp4
+File Name: C:\Downloaded Web Sites\localhost\videos\video4.mp4
+Content Type: video/mp4
+
+Uri: http://localhost:8000/Z_Package/LC-Lightbox/css/fonts/lc_lightbox.eot
+File Name: C:\Downloaded Web Sites\localhost\Z_Package\LC-Lightbox\css\fonts\lc_lightbox.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:8000/Z_Package/LC-Lightbox/css/fonts/lc_lightbox.svg
+File Name: C:\Downloaded Web Sites\localhost\Z_Package\LC-Lightbox\css\fonts\lc_lightbox.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:8000/Z_Package/LC-Lightbox/css/fonts/lc_lightbox.ttf
+File Name: C:\Downloaded Web Sites\localhost\Z_Package\LC-Lightbox\css\fonts\lc_lightbox.ttf
+Content Type: font/ttf
+
+Uri: http://localhost:8000/Z_Package/LC-Lightbox/css/fonts/lc_lightbox.woff
+File Name: C:\Downloaded Web Sites\localhost\Z_Package\LC-Lightbox\css\fonts\lc_lightbox.woff
+Content Type: font/woff
+
+Uri: http://localhost:8000/Z_Package/LC-Lightbox/css/lc_lightbox.css
+File Name: C:\Downloaded Web Sites\localhost\Z_Package\LC-Lightbox\css\lc_lightbox.css
+Content Type: text/css
+
+Uri: http://localhost:8000/Z_Package/LC-Lightbox/js/lc_lightbox.lite.js
+File Name: C:\Downloaded Web Sites\localhost\Z_Package\LC-Lightbox\js\lc_lightbox.lite.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/Z_Package/LC-Lightbox/lib/AlloyFinger/alloy_finger.min.js
+File Name: C:\Downloaded Web Sites\localhost\Z_Package\LC-Lightbox\lib\AlloyFinger\alloy_finger.min.js
+Content Type: application/javascript
+
+Uri: http://localhost:8000/Z_Package/LC-Lightbox/skins/minimal.css
+File Name: C:\Downloaded Web Sites\localhost\Z_Package\LC-Lightbox\skins\minimal.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\localhost\npm\bootstrap-icons@1.7.1\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/fonts/bootstrap-icons.woff2?a74547b2f0863226942ff8ded57db345
+File Name: C:\Downloaded Web Sites\localhost\npm\bootstrap-icons@1.7.1\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/fonts/bootstrap-icons.woff?a74547b2f0863226942ff8ded57db345
+File Name: C:\Downloaded Web Sites\localhost\npm\bootstrap-icons@1.7.1\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://code.jquery.com/ui/1.11.4/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\localhost\ui\1.11.4\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Nunito
+File Name: C:\Downloaded Web Sites\localhost\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://res.cloudinary.com/dxfq3iotg/image/upload/v1571057658/cd-top-arrow.svg
+File Name: C:\Downloaded Web Sites\localhost\dxfq3iotg\image\upload\v1571057658\cd-top-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\localhost\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\localhost\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-5JWXSMN6FP
+File Name: C:\Downloaded Web Sites\localhost\gtag\js
+Content Type: application/javascript
+

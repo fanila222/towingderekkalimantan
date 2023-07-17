@@ -1,0 +1,114 @@
+.navbar .megamenu {
+    padding: 1rem;
+}
+
+
+/* ============ desktop view ============ */
+
+@media all and (min-width: 992px) {
+    .navbar .has-megamenu {
+        position: static!important;
+        margin-right: 2em;
+    }
+    .navbar .megamenu {
+        left: 0;
+        right: 0;
+        width: 100%;
+        margin-top: 0;
+    }
+}
+
+
+/* ============ desktop view .end// ============ */
+
+
+/* ============ mobile view ============ */
+
+@media(max-width: 991px) {
+    .navbar.fixed-top .navbar-collapse,
+    .navbar.sticky-top .navbar-collapse {
+        overflow-y: auto;
+        max-height: 90vh;
+        margin-top: 10px;
+    }
+}
+
+
+/* ============ mobile view .end// ============ */
+
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.slider {
+    width: 100%;
+    margin: 0;
+}
+
+.lazy .slick-slide {
+    margin: 0px 0px;
+}
+
+.variable .slick-slide {
+    margin: 0px 10px;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-next {
+    z-index: 1;
+    right: 13px;
+}
+
+.slick-prev {
+    z-index: 1;
+    left: 13px;
+}
+
+.variable .slick-prev {
+    z-index: 1;
+    left: -30px;
+}
+
+.variable .slick-next {
+    z-index: 1;
+    right: -30px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: black;
+}
+
+.slick-slide {
+    transition: all ease-in-out .3s;
+    opacity: .2;
+}
+
+.slick-active {
+    opacity: .5;
+}
+
+.slick-current {
+    opacity: 1;
+}
+
+.flex-grow {
+    flex: 1 0 0;
+}
+
+.inp {
+    border: none;
+    border-bottom: 1px solid #1890ff;
+    padding: 5px 10px;
+    outline: none;
+}
+
+[placeholder]:focus::-webkit-input-placeholder {
+    transition: text-indent 0.4s 0.4s ease;
+    text-indent: -100%;
+    opacity: 1;
+}

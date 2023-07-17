@@ -1,0 +1,445 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #fff;
+}
+
+.side-navbar {
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    margin-left: -300px;
+    background-color: #100901;
+    transition: 0.5s;
+}
+
+.nav-link:active,
+.nav-link:focus,
+.nav-link:hover {
+    background-color: #ffffff26;
+}
+
+.my-container {
+    transition: 0.4s;
+}
+
+.active-nav {
+    margin-left: 0;
+}
+
+
+/* for main section */
+
+.active-cont {
+    margin-left: 180px !important;
+}
+
+#menu-btn {
+    background-color: #100901;
+    color: #fff;
+    /* margin-left: 10px; */
+    /* margin-top: 15px; */
+    width: 50px;
+    position: absolute;
+    transition: all 0.2s;
+    z-index: 100;
+    display: none;
+    left:15px;
+}
+
+.my-container input {
+    border-radius: 2rem;
+    padding: 2px 20px;
+}
+
+#sidebar li .submenu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+/*Product Listing Page Styles*/
+
+#productlist_brandbanners {
+    width: 100%;
+    max-width: 1266px;
+    margin: 0 auto;
+}
+
+#cphMain_divTopSort .attributefiltermain .attributefilterpanel .liAttValue a {
+    text-transform: none;
+    font-weight: normal;
+}
+
+#productlist_info *:empty {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+#productlist_brandbanners .brandimg {
+    width: 100%;
+}
+
+#productlist_info {
+    margin-bottom: 25px;
+}
+
+#productlist_info .plist_title {
+    text-align: center;
+    line-height: 1.25;
+    font-weight: 700;
+    color: #3b4858;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+#productlist_plisting_filter,
+#productlisting_plisting_navigation {
+    margin: 20px 0 0 0;
+}
+
+#productlist_plisting_filter>.row {
+    margin-bottom: 0px !important;
+}
+
+#productlist_plisting_filter a {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#productlisting_plisting_navigation a {
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #888;
+}
+
+#productlist_plisting_filter>div,
+#productlisting_plisting_navigation>div {
+    margin-bottom: 20px;
+}
+
+#productlist_plisting_filter h2,
+#productlisting_plisting_navigation h2 {
+    line-height: 1.25;
+    font-weight: 700;
+    color: #3b4858;
+    letter-spacing: 0.1em;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+#productlist_plisting_filter label,
+#productlisting_plisting_navigation label {
+    font-weight: 400;
+    font-size: 15px;
+    display: inline-block;
+}
+
+#productlist_plisting_filter ul,
+#productlisting_plisting_navigation ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#productlist_plisting_filter li,
+#productlisting_plisting_navigation li {
+    cursor: pointer;
+    margin: 0;
+}
+
+@media (min-width: 992px) {
+    #productlist_plisting_products .col-md-3:nth-child(4n+1) {
+        clear: both;
+    }
+}
+
+.pagecontrols {
+    margin-bottom: 50px;
+    width: auto;
+    display: inline-block;
+}
+
+.pagecontrols label {
+    width: 50px;
+    margin-right: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.pagecontrols .sorting,
+.pagecontrols .itemsperpage {
+    text-align: right;
+}
+
+@media (min-width: 992px) {
+    .pagecontrols .itemsperpage {
+        text-align: left;
+    }
+}
+
+.pagecontrols .asppager {
+    display: inline-block;
+}
+
+.pagecontrols .asppager div * {
+    font-size: 12px;
+    color: #000;
+    margin-right: 15px !important;
+    position: relative;
+}
+
+.pagecontrols .asppager div *:before {
+    content: '/';
+    position: absolute;
+    top: 50%;
+    left: -12px;
+    transform: translate(0, -50%);
+    color: #000;
+}
+
+.pagecontrols .asppager div *:first-child:before {
+    content: '';
+}
+
+.attribute_container {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+
+#ShopInShopContentItems {
+    padding: 0 15px;
+    text-align: center;
+}
+
+#ShopInShopContentItems img {
+    max-width: 100%;
+}
+
+#ShopInShopContentItems div {
+    border: 1px solid #ccc;
+}
+
+.productist_item .productllist_item_products .productllist_item_product .ptitle2 {
+    font-size: 30px;
+    font-family: 'PxGrotesk-Bold';
+    margin-top: 20px;
+    text-transform: capitalize;
+}
+
+@media (max-width: 500px) {
+    .productist_item .productllist_item_products .productllist_item_product .ptitle2 {
+        font-size: 20px;
+    }
+}
+
+.productist_item .productllist_item_products .productllist_item_product .pprice,
+.productist_item .productllist_item_products .productllist_item_product .pprice_promo {
+    font-size: 15px;
+    color: #000;
+}
+
+.productist_item .productllist_item_products .productllist_item_product .pprice strike,
+.productist_item .productllist_item_products .productllist_item_product .pprice_promo strike {
+    color: #000;
+}
+
+.productist_item .productllist_item_products .productllist_item_product .pprice_promo {
+    color: #E64B38;
+}
+
+.productist_item .productllist_item_products .productllist_item_product .ppromoTag.promo {
+    background: transparent;
+    color: #E64B38;
+    font-weight: 800;
+    font-size: 15px;
+    padding: 0;
+}
+
+@media (min-width: 769px) {
+    #divProductListing.perrow-2 .productllist_item_products .product:nth-child(2n+1),
+    #divProductListing.perrow-3 .productllist_item_products .product:nth-child(3n+4),
+    #divProductListing.perrow-4 .productllist_item_products .product:nth-child(4n+5) {
+        clear: both;
+    }
+}
+
+@media (max-width: 768px) {
+    #divProductListing .productllist_item_products .product:nth-child(2n+1) {
+        clear: both;
+    }
+}
+
+.productllist_item_products {
+    margin: 0 -15px;
+}
+
+.attcolor,
+.attimage {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.attributefiltermain {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.attributefiltermain .attributefilterpanel {
+    flex: 0 0 45%;
+}
+
+.attributefiltermain .attributefilterpanel:first-child {
+    margin-right: 10%;
+}
+
+.attributefiltermain .attributefilterpanel .dropdown-toggle,
+.attributefiltermain .attributefilterpanel .dropdown {
+    width: 100%;
+    display: block;
+}
+
+.attributefiltermain .attributefilterpanel .dropdown-toggle {
+    border-bottom: 1px solid #273632;
+    padding-bottom: 10px;
+}
+
+.attributefiltermain .attributefilterpanel .dropdown-toggle label {
+    margin: 0;
+}
+
+.attributefiltermain .attributefilterpanel .dropdown.open .dropdown-toggle>span.caret {
+    transform: rotate(225deg);
+    -webkit-transform: rotate(225deg);
+}
+
+.attributefiltermain .attributefilterpanel .dropdown-toggle>span {
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.attributefiltermain .attributefilterpanel .dropdown-toggle>span.caret {
+    float: right;
+    border: solid #E64B38;
+    border-width: 0 1px 1px 0;
+    padding: 3px;
+    position: relative;
+    top: 5px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+.attributefiltermain .attributefilterpanel .dropdown-menu {
+    border-radius: 0px;
+    border: 0;
+    box-shadow: none;
+    min-width: 100%;
+}
+
+.attributefiltermain .attributefilterpanel .dropdown-menu>li>a {
+    padding: 0px 10px;
+}
+
+.attributefiltermain .attributefilterpanel .dropdown-menu .liAttValue:not(.checkbox) a {
+    padding: 5px 10px;
+}
+
+.attributefiltermain .attributefilterpanel .dropdown-menu .liAttValue:not(.checkbox) a:hover {
+    background: #ddd;
+}
+
+.group-btn .attributefilterpanel {
+    color: #273632;
+    border: 2px solid #273632;
+    border-radius: 2px;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px 0;
+}
+
+.group-btn .attributefilterpanel:hover {
+    background: #273632;
+    color: #fff;
+}
+
+.checkbox {
+    padding: 3px;
+    padding-left: 25px;
+    position: relative;
+}
+
+.checkbox input {
+    display: none;
+}
+
+.checkbox span {
+    vertical-align: middle;
+}
+
+.checkbox label {
+    padding-left: 0;
+}
+
+.checkbox .attcolor,
+.checkbox .checkmark {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 3px;
+}
+
+.checkbox .style-checked:before,
+.checkbox:hover .checkmark:before,
+.checkbox .select-item input:checked~.checkmark:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -3px;
+    transform: translatey(-50%);
+    width: 18px;
+    height: 18px;
+    border: 1px solid #273632;
+    border-radius: 50%;
+}
+
+.checkbox .checkmark {
+    width: 12px;
+    height: 12px;
+    background: #D4D7D6;
+    border-radius: 50%;
+}
+
+.checkbox:hover .checkmark {
+    background: #273632;
+}
+
+.checkbox .select-item input:checked~.checkmark {
+    background: #273632;
+}
+
+.view-mb .col-xs-12 {
+    padding: 0;
+}
+
+.full-width {
+    position: relative;
+    width: 100vw;
+    margin-left: -50vw;
+    left: 50%;
+}
