@@ -1,5 +1,5 @@
 Uri: http://localhost:8000/
-File Name: C:\Downloaded Web Sites\localhost\index.htm
+File Name: C:\Downloaded Web Sites\localhost\index.html
 Content Type: text/html
 
 Uri: http://localhost:8000/admin/tag/dist/bootstrap-tagsinput.min.js
